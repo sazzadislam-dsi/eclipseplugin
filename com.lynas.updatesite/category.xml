@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.lynas.feature_1.0.0.qualifier.jar" id="com.lynas.feature" version="1.0.0.qualifier"/>
+</site>
